@@ -1,6 +1,6 @@
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-    tex2jax: {inlineMath: [["$","$"],["\(","\)"]]}
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
   });
 </script>
 <script type="text/javascript" src="../MathJax.js?config=TeX-AMS_HTML-full"></script>
@@ -18,9 +18,9 @@
 
 # Definición
 
-Sea \(G\) una gráfica. Un **emparejamiento** en \(G\) es un conjunto de
+Sea $G$ una gráfica. Un **emparejamiento** en \(G\) es un conjunto de
 \(M\) de aristas ajenas. Decimos que el emparejamiento \(M\) es
-**perfecto** si todo vértice de \(G\) está en alguna arista de \(M\).
+**perfecto** si todo vértice de \(G\) está en alguna arista de $M$.
 
 Sea \(G=(A,B)\) una gráfica bipartita. Dado \(S\subseteq A\),
 denotamos con \(N(S)\) al conjunto \(\{y\in B\mid{existe }x\in A\ text
