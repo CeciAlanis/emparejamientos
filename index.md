@@ -1,7 +1,5 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async
-          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
+ <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script> 
+ 
 # Tabla de contenidos
 
 1.  [Definición](#org5241fc0)
@@ -14,7 +12,7 @@
 
 # Definición
 
-Sea G$ una gráfica. Un **emparejamiento** en \(G\) es un conjunto de
+Sea $G$ una gráfica. Un **emparejamiento** en \(G\) es un conjunto de
 \(M\) de aristas ajenas. Decimos que el emparejamiento \(M\) es
 **perfecto** si todo vértice de \(G\) está en alguna arista de $M$.
 
