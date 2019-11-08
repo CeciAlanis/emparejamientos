@@ -15,7 +15,7 @@
 
 # Definición
 
-Sea $G$ una gráfica. Un **emparejamiento** en \(G\) es un conjunto de
+Sea $G una gráfica. Un **emparejamiento** en \(G\) es un conjunto de
 \(M\) de aristas ajenas. Decimos que el emparejamiento \(M\) es
 **perfecto** si todo vértice de \(G\) está en alguna arista de $M$.
 
