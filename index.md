@@ -1,5 +1,14 @@
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+</script>
+<script type="text/javascript" src="../MathJax.js?config=TeX-AMS_HTML-full"></script>
 
-# Table of Contents
+</head>
+
+
+# Tabla de contenidos
 
 1.  [Definición](#org5241fc0)
 2.  [Teorema de Hall](#orgffd5d7e)
